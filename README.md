@@ -1,9 +1,4 @@
-# Webpack Frontend Starterkit
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
-
-A lightweight foundation for your next webpack based frontend project.
-
+This is a news app, which fetches lives news using newsapi. It is responsive and can be switched between dark and light mode.
 
 ### Installation
 
