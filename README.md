@@ -1,3 +1,6 @@
+
+Live app : http://daily-news-app.surge.sh/ (http://daily-news-app.surge.sh/ )
+
 This is a news app, which fetches lives news using newsapi. It is responsive and can be switched between dark and light mode.
 
 ### Installation
