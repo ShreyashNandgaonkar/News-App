@@ -1,5 +1,5 @@
 
-Live app : [News-App](http://globalnews.surge.sh/)
+# Live app : [News-App](http://globalnews.surge.sh/)
 
 This is a news app, which fetches lives news using newsapi. It is responsive and can be switched between dark and light mode.
 
